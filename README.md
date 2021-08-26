@@ -6,9 +6,8 @@
 ## I'm a student at Gunadarma University
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-
-- 🌱 I’m currently learning Data Science
 <!-- - 👯 I’m looking to collaborate with other content creators -->
+- 🌱 I’m currently learning Data Science
 - 🥅 2021 Goals: Get my specialization on Data Science
 - ⚡ Fun fact: I love to draw and play badminton
 
