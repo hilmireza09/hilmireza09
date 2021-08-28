@@ -1,134 +1,121 @@
+### Hi there, I'm Hilmi 👋
+
+<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+
+## I'm a student at Gunadarma University
+
+<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
+<!-- - 👯 I’m looking to collaborate with other content creators -->
+
+- 🌱 I’m currently learning Data Science
+- 🥅 2021 Goals: Get my specialization on Data Science
+- ⚡ Fun fact: I love to draw and play badminton
+
+### Connect with me:
+
+<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+
 <br />
 
-<p align="center">
-  <a href='https://academy.dqlab.id/main/learn_more'><img src="pic/dqlab_logo.png"></a>
-</p>
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+
+<!-- [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist] -->
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+
+<!-- [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist] -->
+<!-- [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist] -->
+<!-- [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist] -->
+<!-- [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist] -->
+<!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist] -->
+
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+
+<!-- [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist] -->
+
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
-<p align="justify">
-  <a href="https://academy.dqlab.id/main/module">DQLab</a> adalah salah satu portal belajar Data Science terbaik di Indonesia. Banyak modul yang disediakan seperti, R, Python, dan SQL. Ketiga bahasa tersebut sangat umum digunakan di dunia Data Science. 
-</p>
-
 <br />
 
-<h1 align="center">DQLab Modules</h1>
+---
 
-## R Module <a href='pic/r.png'><img src='pic/r.png' align="right" height="40" /></a>
+<!-- ### 📺 Latest YouTube Videos -->
 
-<details><summary>Daftar Kelas</summary>
+<!-- YOUTUBE:START -->
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/1_Data%20Preparation%20in%20Data%20Science%20using%20R.R)] Data Preparation in Data Science using R
+<!-- - [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
+- [The Origins of React // Jenn Creighton React Advanced London Interview](https://www.youtube.com/watch?v=lIJHjamOPfM)
+- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
+- [⭐ BONUS: STACKr News Shorts - How To Accept Payments With Stripe](https://www.youtube.com/watch?v=dOnI3CtvFD4)
+- [Intentional Career Building with Kent C. Dodds // React Advanced London Interview](https://www.youtube.com/watch?v=1lxAnODL7GU) -->
+<!-- YOUTUBE:END -->
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/2_Statistics%20using%20R%20for%20Data%20Science.R)] Statistics using R for Data Science
+<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/3_Data%20Visualization%20in%20Data%20Science%20using%20R.R)] Data Visualization in Data Science using R
+<!-- --- -->
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/4_Fundamental%20Data%20Visualization%20using%20R.R)] Fundamental Data Visualization using R
+<!-- ### 📕 Latest Blog Posts -->
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/5_Advanced%20Data%20Visualization%20with%20ggplot2%20using%20R.R)] Advanced Data Visualization with ggplot2 using R
+<!-- BLOG-POST-LIST:START -->
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/6_Data%20Science%20in%20Finance%20Credit%20Risk%20Analysis.R)] Data Science in Finance Credit Risk Analysis
+<!-- - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65) -->
+<!-- BLOG-POST-LIST:END -->
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/7_Data%20Science%20in%20Retail%20Market%20Basket%20Analysis.R)] Data Science in Retail Market Basket Analysis
+<!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/8_Data%20Science%20in%20Marketing%20Customer%20Segmentation.R)] Data Science in Marketing Customer Segmentation
+---
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/9_Data%20Science%20in%20Finance%20Dimension%20Reduction.R)] Data Science in Finance Dimension Reduction
+<!-- <details> -->
+  <!-- <summary>:zap: Recent GitHub Activity</summary> -->
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/10_Analisis%20Data%20COVID19%20di%20Indonesia.R)] Analisis Data COVID19 di Indonesia
+<!--START_SECTION:activity-->
+<!-- 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
+<!--END_SECTION:activity-->
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/r/11_A%20Walk%20Into%20Sensory%20Science.R)] A Walk Into Sensory Science
+<!-- </details>
 
-</details>
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-## Python Module <a href='pic/python.png'><img src='pic/python.png' align="right" height="40" /></a>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-<details><summary>Daftar Kelas</summary>
+</details> -->
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/1_Python%20for%20Data%20Professional%20Beginner%20-%20Part%201.ipynb)] Python for Data Professional Beginner - Part 1
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCnAVApgr2kN5-C9NuTSI0dg
+[instagram]: https://www.instagram.com/hilmi_reza
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=h.rezamuhammad@gmail.com
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/2_Python%20for%20Data%20Professional%20Beginner%20-%20Part%202.ipynb)] Python for Data Professional Beginner - Part 2
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/3_Python%20for%20Data%20Professional%20Beginner%20-%20Part%203.ipynb)] Python for Data Professional Beginner - Part 3
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/4_Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner.ipynb)] Exploratory Data Analysis with Python for Beginner
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/5_Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201.ipynb)] Data Visualization with Python Matplotlib for Beginner - Part 1
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/6_Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%202.ipynb)] Data Visualization with Python Matplotlib for Beginner - Part 2
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/7_%20Data%20Quality%20with%20Python%20for%20Beginner.ipynb)] Data Quality with Python for Beginner
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/8_Machine%20Learning%20With%20Python%20for%20Beginner.ipynb)] Machine Learning With Python for Beginner
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/9_Fundamental%20Data%20Visualization%20with%20Python.ipynb)] Fundamental Data Visualization with Python
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/10_Data%20Manipulation%20with%20Pandas%20-%20Part%201.ipynb)] Data Manipulation with Pandas - Part 1
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/11_Data%20Manipulation%20with%20Pandas%20-%20Part%202.ipynb)] Data Manipulation with Pandas - Part 2
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/12_Statistic%20using%20Python%20for%20Data%20Science%20-%20Part%201.ipynb)] Statistic using Python for Data Science - Part 1
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/13_Statistic%20using%20Python%20for%20Data%20Science%20-%20Part%202.ipynb)] Statistic using Python for Data Science - Part 2
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/14_Data%20Visualization%20using%20Plotnine.ipynb)] Data Visualization using Plotnine
-
-</details>
-
-## SQL Module <a href='pic/sql.png'><img src='pic/sql.png' align="right" height="40" /></a>
-
-<details><summary>Daftar Kelas</summary>
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/1_Fundamental%20SQL%20Using%20SELECT%20Statement.sql)] Fundamental SQL Using SELECT Statement
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/2_Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY.sql)] Fundamental SQL Using FUNCTION and GROUP BY
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/3_Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION.sql)] Fundamental SQL Using INNER JOIN and UNION
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/4_Fundamental%20SQL%20Group%20By%20and%20Having.sql)] Fundamental SQL Group By and Having
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/5_Project%20Fundamental%20SQL%20Group%20By%20and%20Having.sql)] Project Fundamental SQL Group By and Having
-
-</details>
-
-<h1 align="center">DQLab Project</h1>
-
-## R Project <a href='pic/r.png'><img src='pic/r.png' align="right" height="40" /></a>
-
-<details><summary>Daftar Project</summary>
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/5_Project%20Fundamental%20SQL%20Group%20By%20and%20Having.sql)] Project Fundamental SQL Group By and Having
-
-</details>
-
-## Python Project <a href='pic/python.png'><img src='pic/python.png' align="right" height="40" /></a>
-
-<details><summary>Daftar Project</summary>
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/Project/1_Data%20Science%20Challenge%20with%20Python.ipynb)] Data Science Challenge with Python
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/Project/2_Data%20Engineer%20Challenge%20with%20Python.ipynb)] Data Engineer Challenge with Python
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/Project/3_Project%20Machine%20Learning%20with%20Python%20Building%20Recommender%20System.ipynb)] Project Machine Learning with Python Building Recommender System
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/Project/4_Project%20Machine%20Learning%20with%20Python%20Building%20Recommender%20System%20with%20Similarity%20Function.ipynb)] Project Machine Learning with Python Building Recommender System with Similarity Function
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/python/Project/5_Project%20Simple%20ETL%20with%20Pandas.ipynb)] Project Simple ETL with Pandas
-
-</details>
-
-## SQL Project <a href='pic/sql.png'><img src='pic/sql.png' align="right" height="40" /></a>
-
-<details><summary>Daftar Project</summary>
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/1_Fundamental%20SQL%20Using%20SELECT%20Statement.sql)] Fundamental SQL Using SELECT Statement
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/2_Fundamental%20SQL%20Using%20FUNCTION%20and%20GROUP%20BY.sql)] Fundamental SQL Using FUNCTION and GROUP BY
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/3_Fundamental%20SQL%20Using%20INNER%20JOIN%20and%20UNION.sql)] Fundamental SQL Using INNER JOIN and UNION
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/4_Fundamental%20SQL%20Group%20By%20and%20Having.sql)] Fundamental SQL Group By and Having
-
-- [[🗂️](https://github.com/hilmireza09/DQLab/blob/main/sql/5_Project%20Fundamental%20SQL%20Group%20By%20and%20Having.sql)] Project Fundamental SQL Group By and Having
-
-</details>
+<!-- Tutorial : https://www.youtube.com/watch?v=ECuqb5Tv9qI -->
