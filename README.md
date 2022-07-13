@@ -9,7 +9,7 @@
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 
 - 🌱 I’m currently learning Data Science
-- 🥅 2021 Goals: Get my specialization on Data Science
+- 🥅 2022 Goals: Get my specialization on Data Science
 - ⚡ Fun fact: I love to draw and play badminton
 
 ### Connect with me:
