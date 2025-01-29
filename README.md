@@ -17,18 +17,24 @@ I am a **Data Analyst** with 2 years of experience in data manipulation, visuali
 - **Project Management**: Jira, Trello
 
 ## 📈 Projects (Dashboard)
-### 🔹 [Financial Dashboard](#)
+### 🔹 [Financial Dashboard](https://github.com/hilmireza09/MyDashboard/blob/main/Dashboards/Financial%20Dashboard.pbix)
 A dynamic Financial Dashboard built with Power BI to visualize sales performance, profitability, and cost insights, enabling data-driven decision-making. 🚀
 
-### 🔹 [Aero Data Dashboard](#)
+### 🔹 [Aero Data Dashboard](https://github.com/hilmireza09/MyDashboard/blob/main/Dashboards/Aero%20Data%20Dashboard.pbix)
 This project involved developing a real-time Flight Ticket Dashboard for PT Panorama Aplikasi Nusantara, providing actionable insights into bookings, sales, and payment types to enhance decision-making and operational efficiency. ✈️📊
 
-### 🔹 [Sales Dashboard for PT Panorama Aplikasi Nusantara](#)
+### 🔹 [Revenue Insights Dashboard](https://github.com/hilmireza09/MyDashboard/blob/main/Dashboards/Revenue%20Insights%20Dashboard.pbix)
 A comprehensive visualization of sales, payment methods, and booking behaviors for data-driven decisions.
+
+### 🔹 [Stock Market Dashboard](https://github.com/hilmireza09/MyDashboard/blob/main/Dashboards/Stock%20Market%20Dashboard.twbx)
+Exploring market trends and consumer behavior.
+
+### 🔹 [Hangry Sales Dashboard](https://lookerstudio.google.com/u/0/reporting/dfd39f25-29ba-4758-ada5-079cccb29dcb/page/XHCCE/edit)
+Monitoring sales performance and growth at Hangry
 
 ## 🌍 Connect With Me
 📧 **Email**: h.rezamuhammad@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/hilmireza09](#)  
-📂 **Portfolio**: [GitHub](https://github.com/hilmireza09)  
+📂 **Portfolio**: [Website](https://github.com/hilmireza09)  
 
 Let's connect and discuss exciting opportunities in data analytics! 🚀
